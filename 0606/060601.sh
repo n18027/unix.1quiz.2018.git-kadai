@@ -1,2 +1,2 @@
-#!/bin/sh
-find~/ -size 0
+#!/bin/bash
+find ~/ -size 0
